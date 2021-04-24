@@ -100,3 +100,11 @@ Received Import Request.
 Start importing Assets/Materials using Guid(35b9e464d87414ec4a17ff5cba7b6d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebedb1bf55b8d0673130a6c657c97581') in 0.004852 seconds
   Import took 0.007063 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 919.168800 seconds.
+  path: Assets/NewBehaviourScript.cs
+  artifactKey: Guid(59ff19d1786f94576838efda1680225b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBehaviourScript.cs using Guid(59ff19d1786f94576838efda1680225b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba7e158f36e05fdd97e201b24cf0402a') in 0.423634 seconds
+  Import took 0.425967 seconds .
+
